@@ -6,12 +6,17 @@
 				box-sizing: border-box;
 }
 
+body {
+  background: black;
+}
+
 h3 {
   font-family: 'Satisfy', cursive;
   font-size: 2rem;
   text-align: center;
   padding: 2rem;
   width: 97vw;
+  color: white;
 }
 
 a {
