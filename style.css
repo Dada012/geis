@@ -17,6 +17,8 @@ h3 {
   padding: 2rem;
   width: 97vw;
   color: white;
+  border: solid 1px white;
+  border-radius: 8px;
 }
 
 a {
